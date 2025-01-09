@@ -1,7 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/elixir,phoenix,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=elixir,phoenix,visualstudiocode
 
-shop_dev.db
+# Database files
+*.db
+*.db-*
 
 ### Elixir ###
 /_build
